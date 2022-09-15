@@ -1,3 +1,3 @@
 # TwitterJS
 
-Twitter Backend with tweet and follow with hellp of ExpressJS and MongoDB
+Twitter Backend with tweet and follow function with ExpressJS and MongoDB
